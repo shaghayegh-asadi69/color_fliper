@@ -1,0 +1,49 @@
+nav {
+    width: 20%;
+    display: inline;
+    background-color: rgb(216, 225, 232);
+}
+
+h4 {
+    color: rgb(121, 223, 223);
+   font-family: Verdana, Geneva, Tahoma, sans-serif;        font-size: 30px;
+    letter-spacing: 4px;
+    margin-top: 1px;
+}
+ 
+   h2{
+      font-family: Arial, Helvetica, sans-serif;
+      color: rgb(38, 64, 55);
+
+   }
+ul {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+}
+
+ a { font-family: Arial, Helvetica, sans-serif;
+      font-size: 40px;
+      text-decoration: none;
+      color: rgb(51, 193, 188);
+    list-style-type: none;  
+    
+
+}
+.container {
+    text-align: center;
+}
+.btn {
+    border-radius: 15px;
+    border-style: solid ;
+    border-color: black;
+    padding: 10px;
+    font-size: large;
+    letter-spacing: 4px;
+    margin: 20px;}
+
+.one{
+   margin-left: 70%;
+   margin-bottom: 0%;
+   width: 50%;
+}
